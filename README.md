@@ -14,6 +14,8 @@
   
   `# docker compose up`
 
+  ![Screenshot from 2024-05-04 17-53-58](https://github.com/KadylBakyt/MongoDB_MongoExpress_Docker_compose/assets/168426067/4eadeba8-4112-4fa6-892a-dfc53c2a6e93)
+
 #### Manage Your MongoDB Database with Mongo Express  
   
   Open this link on your browser [http://localhost:8081](http://localhost:8081)
