@@ -14,7 +14,9 @@
   
   `# docker compose up`
 
+
   ![Screenshot from 2024-05-04 17-53-58](https://github.com/KadylBakyt/MongoDB_MongoExpress_Docker_compose/assets/168426067/4eadeba8-4112-4fa6-892a-dfc53c2a6e93)
+
 
 #### Manage Your MongoDB Database with Mongo Express  
   
@@ -22,7 +24,11 @@
   
   >  Username: `admin`
 
-  >  Password: `QAZWSXqazwsx123+` 
+  >  Password: `QAZWSXqazwsx123+`
+
+
+ ![Screenshot from 2024-05-04 18-01-21](https://github.com/KadylBakyt/MongoDB_MongoExpress_Docker_compose/assets/168426067/092b4e83-a71c-4850-b0ac-f71e7042a06f)
+
 
 ### Your Connection String
   `mongodb://admin:QWERTYqwerty!23456@localhost:27017/test?retryWrites=true&w=majority&authSource=admin`
