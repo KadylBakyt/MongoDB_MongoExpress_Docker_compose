@@ -24,7 +24,7 @@
   
   >  Username: `admin`
 
-  >  Password: `QAZWSXqazwsx123+`
+  >  Password: `QWERTYqwerty!23456`
 
 
  ![Screenshot from 2024-05-04 18-01-21](https://github.com/KadylBakyt/MongoDB_MongoExpress_Docker_compose/assets/168426067/092b4e83-a71c-4850-b0ac-f71e7042a06f)
